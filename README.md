@@ -1,12 +1,12 @@
 "TACS - PRUEBAS SELENIUM" 
 
 - Barra de Busqueda - IJuanchoG
-- Hiperofertas
+- Hiperofertas - Mafe
 - cuenta
 - carrito
 - Servicio al cliente - mateo
 - venta telefónica - mateo
-- categorías (boton)
+- categorías (boton) - Mafe
 - celulares  - mateo
 - televisores - mateo
 - videojuegos - mateo
