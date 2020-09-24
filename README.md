@@ -4,12 +4,12 @@
 - Hiperofertas
 - cuenta
 - carrito
-- Servicio al cliente
-- venta telefónica
+- Servicio al cliente - mateo
+- venta telefónica - mateo
 - categorías (boton)
-- celulares
-- televisores
-- videojuegos
+- celulares  - mateo
+- televisores - mateo
+- videojuegos - mateo
 - pines/netflix y otros - IJuanchoG
 - seguir tu pedido - IJuanchoG
 - nuestras tiendas
