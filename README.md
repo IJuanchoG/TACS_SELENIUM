@@ -10,4 +10,8 @@
 - celulares
 - televisores
 - videojuegos
-- pines
+- pines/netflix y otros
+- seguir tu pedido
+- nuestras tiendas
+- ayuda
+
