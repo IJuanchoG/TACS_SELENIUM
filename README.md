@@ -6,7 +6,7 @@
 - carrito
 - Servicio al cliente - mateo
 - venta telefónica - mateo
-- categorías (boton) - Mafe
+- categorías (boton) - Mafe + 3 pruebas categorias
 - celulares  - mateo
 - televisores - mateo
 - videojuegos - mateo
