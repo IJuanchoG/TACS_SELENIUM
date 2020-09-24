@@ -2,7 +2,7 @@
 
 - Barra de Busqueda - IJuanchoG
 - Hiperofertas - Mafe
-- cuenta
+- cuenta Fonso
 - carrito - Johann
 - Servicio al cliente - mateo
 - venta telefónica - mateo
@@ -12,8 +12,8 @@
 - videojuegos - mateo
 - pines/netflix y otros - IJuanchoG
 - seguir tu pedido - IJuanchoG
-- nuestras tiendas
+- nuestras tiendas Fonso
 - ayuda - Johann
 - Ordenar - Johann
-- Filtrar
+- Filtrar Fonso
 
