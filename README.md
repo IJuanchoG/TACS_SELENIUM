@@ -14,4 +14,6 @@
 - seguir tu pedido - IJuanchoG
 - nuestras tiendas
 - ayuda
+- Ordenar
+- Filtrar
 
