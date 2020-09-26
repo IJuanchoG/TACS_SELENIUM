@@ -1,5 +1,6 @@
 package com.eci.demo;
 
+import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 import org.openqa.selenium.By;
@@ -43,5 +44,10 @@ public class YouTubeTest {
         System.out.println(webDriver.getCurrentUrl());
         String urlGet = "https://www.youtube.com/watch?v=pK060iUFWXg&list=PLDzVECoc2lpTyRIa1w_mtm3j_qgz21AlI";
         assertEquals(urlGet, webDriver.getCurrentUrl());
+    }
+
+    @After
+    public void close() {
+        webDriver.close();
     }
 }
