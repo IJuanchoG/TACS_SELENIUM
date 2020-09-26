@@ -1,5 +1,6 @@
 package com.eci.demo;
 
+import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 import org.openqa.selenium.By;
@@ -42,5 +43,9 @@ public class walmartTest {
         element.submit();
         String urlGet = "https://www.walmart.com/cp/615760?search_redirect=true&redirect_query=halloween&redirectQuery=halloween";
         assertEquals(urlGet, webDriver.getCurrentUrl());
+    }
+    @After
+    public void close() {
+        webDriver.close();
     }
 }
