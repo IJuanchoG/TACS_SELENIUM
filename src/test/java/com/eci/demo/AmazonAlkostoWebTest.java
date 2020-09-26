@@ -46,7 +46,21 @@ public class AmazonAlkostoWebTest {
         assertEquals(text.split(" ")[1],"carrito");
     }
 
+    @Test
+    public void shouldUseSearchAlkosto(){
+        // Configuración Web inicial
+        System.setProperty("webdriver.chrome.driver","chromedriver.exe");
+        WebDriver driver =  new ChromeDriver();
+        driver.get("https://www.alkosto.com/");
 
+        // Prueba 1: Barra de Búsqueda
+        WebElement elem = driver.findElement(By.xpath("//*[@id=\"search\"]"));
+        elem.click();
+        elem.sendKeys("Avion");
+        elem.submit();
+        driver.close();
+
+    }
     @After
     public void close() {
         webDriver.close();

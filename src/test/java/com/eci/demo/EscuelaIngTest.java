@@ -56,6 +56,7 @@ public class EscuelaIngTest {
 
     }
 
+
     @After
     public void close() {
         webDriver.close();
