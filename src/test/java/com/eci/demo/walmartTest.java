@@ -32,7 +32,7 @@ public class walmartTest {
         assertEquals(urlGet, webDriver.getCurrentUrl());
     }
 
-    //shouldWrite-Search-OpenVideo
+    //shouldSearchItem
     @Test
     public void shouldSearchItem () {
         webDriver.get("https://www.walmart.com/");
