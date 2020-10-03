@@ -1,4 +1,16 @@
-"TACS - PRUEBAS SELENIUM" 
+#TACS - PRUEBAS SELENIUM
+Este repositorio tiene por fin mostrar la información correspondiente a casos de prueba aplicados a diferentes páginas por medio de Selenium.
+
+##Páginas probadas:
+
+- Alkosto.
+- Youtube.
+- Escuela Ing.
+- Walmart.
+- Crunchyroll.
+_____________________________________________
+
+Algunos casos de prueba contemplados: 
 
 - Barra de Busqueda - IJuanchoG
 - Hiperofertas - Mafe
