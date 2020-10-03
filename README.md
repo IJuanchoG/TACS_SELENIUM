@@ -1,7 +1,7 @@
-#TACS - PRUEBAS SELENIUM
+# TACS - PRUEBAS SELENIUM
 Este repositorio tiene por fin mostrar la información correspondiente a casos de prueba aplicados a diferentes páginas por medio de Selenium.
 
-##Páginas probadas:
+## Páginas probadas:
 
 - Alkosto.
 - Youtube.
